@@ -1,0 +1,13 @@
+{
+  "name": "repair-fish",
+  "version": "0.0.1",
+  "title": "Repair Fish",
+  "author": "asher_sky",
+  "contact": "",
+  "homepage": "",
+  "description": "Heal and repair anything with fish",
+  "factorio_version": "1.1",
+  "dependencies": [
+	"base"
+	]
+}
