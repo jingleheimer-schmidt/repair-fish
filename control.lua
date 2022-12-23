@@ -4,16 +4,16 @@ local fish_data = {
 
   ["raw-cod"] = 80,
   ["raw-salmon"] = 80,
-  ["raw-pufferfish"] = 80,
+  ["raw-pufferfish"] = -80,
   ["raw-clownfish"] = 100,
 
   ["cooked-cod"] = 120,
-  ["cooked-salmon"] = 80,
+  ["cooked-salmon"] = 120,
 
   ["af-crab"] = 160,
-  ["af-salmon"] = 80,
-  ["af-tropical"] = 80,
-  ["af-squid"] = 80,
+  ["af-salmon"] = 100,
+  ["af-tropical"] = 120,
+  ["af-squid"] = 200,
 
   ["cooked-af-crab"] = 240,
   ["cooked-af-salmon"] = 80,
