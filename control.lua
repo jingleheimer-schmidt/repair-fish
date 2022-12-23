@@ -16,9 +16,9 @@ local fish_data = {
   ["af-squid"] = 200,
 
   ["cooked-af-crab"] = 240,
-  ["cooked-af-salmon"] = 80,
-  ["cooked-af-tropical"] = 80,
-  ["cooked-af-squid"] = 80,
+  ["cooked-af-salmon"] = 150,
+  ["cooked-af-tropical"] = 180,
+  ["cooked-af-squid"] = 300,
 }
 
 script.on_event(defines.events.on_player_used_capsule, function(event)
