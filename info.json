@@ -8,6 +8,13 @@
   "description": "Heal and repair anything with fish",
   "factorio_version": "1.1",
   "dependencies": [
-	"base"
-	]
+    "base"
+  ],
+  "package": {
+    "ignore": [
+      "**/*.psd"
+    ],
+    "sync_portal_details": true,
+    "readme": "readme.md"
+  }
 }
