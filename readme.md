@@ -12,5 +12,5 @@ Currently Supported Modded Fish:
 
 ----------------------------
 #License
-Repair Fish © 2021 by asher_sky is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. 
+Repair Fish © 2021-2025 by asher_sky is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
