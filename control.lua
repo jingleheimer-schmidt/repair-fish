@@ -1,3 +1,4 @@
+
 local fish_data = {
     ["raw-fish"] = 80,
     ["cooked-fish"] = 120,
