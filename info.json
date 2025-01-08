@@ -1,13 +1,20 @@
 {
-  "name": "repair-fish",
-  "version": "0.0.4",
-  "title": "Repair Fish",
-  "author": "asher_sky",
-  "contact": "",
-  "homepage": "",
-  "description": "Heal and repair anything with fish",
-  "factorio_version": "1.1",
-  "dependencies": [
-	"base"
-	]
+    "name": "repair-fish",
+    "version": "0.1.0",
+    "title": "Repair Fish",
+    "author": "asher_sky",
+    "contact": "",
+    "homepage": "",
+    "description": "Heal and repair anything with fish",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base"
+    ],
+    "package": {
+        "ignore": [
+            "**/*.psd"
+        ],
+        "sync_portal_details": true,
+        "readme": "readme.md"
+    }
 }
