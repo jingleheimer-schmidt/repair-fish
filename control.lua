@@ -24,8 +24,8 @@ local fish_data = {
 script.on_event(defines.events.on_player_used_capsule, function(event)
     if fish_data[event.item.name] then
         local player = game.get_player(event.player_index)
-        local selected = player.selected
-        if selected and selected.health then
+        local selected = player and player.valid and player.selected
+        if selected and selected.valid and selected.health then
             selected.health = selected.health + fish_data[event.item.name]
         end
     end
